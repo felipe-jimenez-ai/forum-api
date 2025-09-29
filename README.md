@@ -31,7 +31,7 @@ This project was completed as part of a timed technical challenge, demonstrating
 1. **Clone the repository:**
 
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/felipe-jimenez-ai/forum-api.git
 cd [your-project-directory]
 ```
 
