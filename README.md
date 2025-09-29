@@ -1,4 +1,4 @@
-# 🗣️ Q\&A Forum API
+# 🗣️ Forum API
 
 ## 1. Overview
 
